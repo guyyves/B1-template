@@ -126,6 +126,10 @@ article h2.open-forever{
   display: flex;
 }
 
+.row-2{
+  display: flex;
+}
+
 .product{
   margin-right: 1em;
   padding: 1em;
